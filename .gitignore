@@ -3,3 +3,4 @@ old
 .vscode
 RR
 *.txt
+node_modules
